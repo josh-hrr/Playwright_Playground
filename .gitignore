@@ -1,0 +1,35 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.vscode/
+*.suo
+*.user
+*.sln.docstates
+*.sln.ide
+*.sln.ide-shm
+*.sln.ide-wal
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+*.paket.restore.log
+
+# Ignore user-specific files
+*.userprefs
+*.bak
+*.vspscc
+*.vspx
+*.scc
+*.pidb
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore MSBuild files
+*.dbmdl
+*.jfm
+*.sln.ide-shm
+*.sln.ide-wal
